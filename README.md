@@ -1,4 +1,3 @@
-# Sql_Server_Datawarehouse
 # SQL Server Data Warehouse Project
 
 Welcome to the ** SQL Server Based Data Warehouse Project** repository! 🚀  
